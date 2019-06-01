@@ -25961,7 +25961,7 @@ page-home .punch:active {
 page-home .punch:hover .menujuego {
   position: absolute;
   display: block;
-  bottom: 120px;
+  bottom: 163px;
   width: 175px;
   text-align: -webkit-left;
 }
@@ -25969,7 +25969,7 @@ page-home .punch:hover .menujuego {
 page-home .punch:hover .menupuntaje {
   position: absolute;
   display: block;
-  bottom: 24px;
+  bottom: 70px;
   width: 30%;
   border: 1px solid #234;
   text-align: -webkit-left;
@@ -25982,7 +25982,7 @@ page-home .punch:hover .menupuntaje {
 page-home .punch:hover .menupuntajeSN {
   position: absolute;
   display: block;
-  bottom: 24px;
+  bottom: 70px;
   width: 20%;
   border: 1px solid #234;
   text-align: -webkit-left;
@@ -25995,7 +25995,7 @@ page-home .punch:hover .menupuntajeSN {
 page-home .punch:hover .menuresultado {
   position: absolute;
   display: block;
-  bottom: 120px;
+  bottom: 163px;
   right: 13px;
   width: 14em;
   text-align: -webkit-left;
